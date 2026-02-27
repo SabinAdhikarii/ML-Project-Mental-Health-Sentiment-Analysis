@@ -273,41 +273,7 @@ This project fulfills all coursework requirements:
 - Ethical considerations discussion
 - Well-documented code and explanations
 
-## Dependencies
-
 ```
-datasets>=2.14.0
-transformers>=4.30.0
-torch>=2.0.0
-scikit-learn>=1.3.0
-pandas>=2.0.0
-numpy>=1.24.0
-matplotlib>=3.7.0
-seaborn>=0.12.0
-wordcloud>=1.9.0
-nltk>=3.8.0
-pillow>=10.0.0
-```
-
-## References
-
-### Dataset
-- sai1908. (2024). Mental Health Condition Classification Dataset. HuggingFace Datasets.
-
-### Libraries and Frameworks
-- Devlin, J., et al. (2018). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.
-- Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python. JMLR 12.
-- Wolf, T., et al. (2020). Transformers: State-of-the-Art Natural Language Processing. EMNLP 2020.
-
-### Mental Health and AI Ethics
-- Chancellor, S., & De Choudhury, M. (2020). Methods in predictive techniques for mental health status on social media. NPJ Digital Medicine.
-- Wiens, J., et al. (2019). Do no harm: a roadmap for responsible machine learning for health care. Nature Medicine.
-
-##  Support
-
-For questions or issues, please contact me at sabinofficial99@gmail.com).
-
----
 ## Acknowledgments
 
 - London Metropolitan University for course structure and guidance
