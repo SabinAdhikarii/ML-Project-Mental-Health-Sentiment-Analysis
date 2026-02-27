@@ -120,34 +120,7 @@ The project includes comprehensive visualizations:
 - ROC curves
 - Feature importance plots (Random Forest)
 
-## Ethical Considerations
 
-### Critical Issues Addressed
-
-**1. Bias and Fairness**
-- Potential biases in training data
-- Performance variation across demographics
-- Mitigation through diverse data collection
-
-**2. Privacy and Confidentiality**
-- Sensitive mental health information
-- Data anonymization requirements
-- HIPAA/GDPR compliance considerations
-
-**3. Misclassification Consequences**
-- False negatives for serious conditions (especially suicidal)
-- Life-threatening implications
-- Need for human oversight
-
-**4. Stigmatization**
-- Risk of labeling individuals
-- Person-first language usage
-- Educational approach to mental health
-
-**5. Over-reliance on AI**
-- Not a replacement for professional diagnosis
-- Clear disclaimers required
-- Encouragement to seek professional help
 
 ### Recommendations
 
