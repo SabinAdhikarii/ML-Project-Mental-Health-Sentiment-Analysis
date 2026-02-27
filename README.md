@@ -43,42 +43,6 @@ mental-health-classification/
 └── results/                              # Model outputs and results
 ```
 
-## Installation
-
-### Prerequisites
-- Python 3.8 or higher
-- pip package manager
-- Google Colab (recommended) or local Jupyter environment
-
-### Required Libraries
-
-```bash
-pip install datasets transformers torch scikit-learn pandas numpy matplotlib seaborn wordcloud nltk
-```
-
-Or install from requirements file:
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-### Running in Google Colab
-
-1. Upload the notebook to Google Colab
-2. Run all cells sequentially
-3. The notebook will automatically install dependencies
-4. Results will be generated with visualizations
-
-### Running Locally
-
-1. Clone or download the repository
-2. Install required dependencies
-3. Open Jupyter Notebook:
-   ```bash
-   jupyter notebook Mental_Health_Classification.ipynb
-   ```
-4. Execute cells in order
 
 ### Loading the Dataset
 
