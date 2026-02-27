@@ -303,13 +303,6 @@ pillow>=10.0.0
 - Chancellor, S., & De Choudhury, M. (2020). Methods in predictive techniques for mental health status on social media. NPJ Digital Medicine.
 - Wiens, J., et al. (2019). Do no harm: a roadmap for responsible machine learning for health care. Nature Medicine.
 
-##  Author
-
-**SabinAdhikari**  
-GitHub: [SabinAdhikarii](https://github.com/SabinAdhikarii)
-
----
-
 ##  Support
 
 For questions or issues, please contact me at sabinofficial99@gmail.com).
@@ -324,6 +317,30 @@ For questions or issues, please contact me at sabinofficial99@gmail.com).
 ## Disclaimer
 
 **IMPORTANT:** This project is for educational and research purposes only. The models developed should NOT be used for clinical diagnosis or as a substitute for professional mental health care. If you are experiencing mental health issues, please consult with a qualified mental health professional immediately.
+
+
+## 👤 Author
+
+**SabinAdhikari**  
+GitHub: [SabinAdhikarii](https://github.com/SabinAdhikarii)
+
+---
+
+## 📞 Support
+
+For questions or issues, please contact me at sabinofficial99@gmail.com).
+
+---
+
+**Last Updated:** January 2026
+
+## License
+
+This project is for educational and demonstration purposes. The Sanima bank dataset has been used. You can use the dataset directltly. The original source of the dataset is scrapped data from [NEPSE](https://nepsealpha.com/stocks/SANIMA/info?utm_source=copilot.com)  
+
+
+
+**Happy Analyzing! 📈**
 
 ---
 
