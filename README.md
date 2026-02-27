@@ -227,17 +227,12 @@ This project fulfills all coursework requirements:
 - Ethical considerations discussion
 - Well-documented code and explanations
 
-```
+
 ## Acknowledgments
 
 - London Metropolitan University for course structure and guidance
 - HuggingFace for dataset hosting and transformer libraries
 - Open-source community for ML tools and libraries
-
-## Disclaimer
-
-**IMPORTANT:** This project is for educational and research purposes only. The models developed should NOT be used for clinical diagnosis or as a substitute for professional mental health care. If you are experiencing mental health issues, please consult with a qualified mental health professional immediately.
-
 
 ## 👤 Author
 
@@ -262,8 +257,11 @@ This project is for educational and demonstration purposes. The Sanima bank data
 
 **Happy Analyzing! 📈**
 
----
+
 
 **Version:** 1.0  
 **Last Updated:** January 2026  
 **Status:** Active Development
+## Disclaimer
+
+**IMPORTANT:** This project is for educational and research purposes only. The models developed should NOT be used for clinical diagnosis or as a substitute for professional mental health care. If you are experiencing mental health issues, please consult with a qualified mental health professional immediately.
