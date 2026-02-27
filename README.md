@@ -42,16 +42,6 @@ mental-health-classification/
 ├── requirements.txt                      # Python dependencies
 └── results/                              # Model outputs and results
 ```
-
-
-### Loading the Dataset
-
-```python
-from datasets import load_dataset
-
-ds = load_dataset("sai1908/Mental_Health_Condition_Classification")
-```
-
 ## Models
 
 ### 1. Logistic Regression
